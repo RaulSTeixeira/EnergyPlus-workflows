@@ -1,2 +1,2 @@
 # EnergyPlus-workflows
-Personal Project: manipulate energyplus IDF file and handle output data
+Manipulate energyplus IDF file and handle output data
